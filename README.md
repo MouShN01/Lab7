@@ -1,2 +1,3 @@
 # Lab7
-Temp Repo
+## Demo update
+This is a demonstration of Git branches and commits.
